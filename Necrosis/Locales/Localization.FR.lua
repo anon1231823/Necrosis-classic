@@ -13,8 +13,8 @@ L["TRADE"] = "Echange"
 L["NECROSIS_LABEL"] = "|c00FFFFFF".."Necrosis".."|r"
 L["YES"] = "Oui"
 L["NO"] = "Non"
-L["ON"] = "On"
-L["OFF"] = "Off"
+L["ON"] = "Actif"
+L["OFF"] = "Inactif"
 --
 L["SOUL_SHARD"] = "Soul Shard"
 L["SOUL_SHARD_LABEL"] = "Fragment(s) d'\195\162me".." : "
@@ -22,18 +22,18 @@ L["INFERNAL_STONE"] = "Infernal Stone"
 L["INFERNAL_STONE_LABEL"] = "Pierre(s) infernale(s)".." : "
 L["DEMONIAC_STONE"] = "Demonic Figurine"
 L["DEMONIAC_STONE_LABEL"] = "Pierre(s) d\195\169moniaque(s)".." : "
-L["SOUL_STONE"] = "Soulstone"
+L["SOUL_STONE"] = "Pierre d'\195\162me"
 L["SOUL_STONE_LABEL"] = "\nPierre d'\195\162me".." : "
-L["HEALTH_STONE"] = "Healthstone"
+L["HEALTH_STONE"] = "Pierre de soins"
 L["HEALTH_STONE_LABEL"] = "Pierre de soins".." : "
-L["SPELL_STONE"] = "Spellstone"
+L["SPELL_STONE"] = "Pierre de sort"
 L["SPELL_STONE_LABEL"] = "Pierre de sort".." : "
-L["FIRE_STONE"] = "Firestone"
+L["FIRE_STONE"] = "Pierre de feu"
 L["FIRE_STONE_LABEL"] = "Pierre de feu".." : "
 L["CURRENT_DEMON"] = "D\195\169mon".." : "
-L["ENSLAVED_DEMON"] = "D\195\169mon".." : ".."Enslaved"
+L["ENSLAVED_DEMON"] = "D\195\169mon".." : ".."Asservi"
 L["NO_CURRENT_DEMON"] = "D\195\169mon".." : ".."Aucun"
-L["HEARTH_STONE"] = "Hearthstone"
+L["HEARTH_STONE"] = "Pierre de foyer"
 --
 L["SOULSTONE_TEXT_1"] = "Clic droit pour cr\195\169er"
 L["SOULSTONE_TEXT_2"] = "Clic gauche pour utiliser"
@@ -141,17 +141,17 @@ L["SPHERE_SPELL"] = "Sort cast\195\169 par la sph\195\168re"
 L["SPHERE_COUNTER"] = "Afficher le compteur num\195\169rique"
 L["SPHERE_STONE"] = "Type de compteur num\195\169rique"
 --	Colour
-L["PINK"] = "Pink"
+L["PINK"] = "Rose"
 L["BLUE"] = "Bleu"
 L["ORANGE"] = "Orange"
 L["TURQUOISE"] = "Turquoise"
-L["PURPLE"] = "Purple"
+L["PURPLE"] = "Pourpre"
 L["666"] = "666"
 L["X"] = "X"
 -- Count
 L["SOUL_SHARDS"] = "Fragments d'\195\162me"
 L["DEMON_SUMMON_STONES"] = "Pierres d'invocations"
-L["REZ_TIMER"] = "Timer de Rez"
+L["REZ_TIMER"] = "Timer de Res"
 L["MANA"] = "Mana"
 L["HEALTH"] = "Sant\195\169"
 -- Buttons
@@ -239,7 +239,7 @@ L["ANTI_FEAR_BUFF_PROTECT"]		= "Protection divine"
 L["ANTI_FEAR_BUFF_SHIELD"]		= "Bouclier divin"
 L["ANTI_FEAR_BUFF_TREMOR"]		= "Totem de s\195\169isme"
 L["ANTI_FEAR_BUFF_ABOLISH"]		= "Abolir la magie"
-L["ANTI_FEAR_DEBUFF_RECKLESS"]	= "Curse of Recklessness"
+L["ANTI_FEAR_DEBUFF_RECKLESS"]	= "Mal\195\169diction de t\195\169m\195\169rit\195\169"
 -- Speech
 L["TAXI_1"]	= "<after>".."Taxi des Arcanes ! Cliquez sur le portail svp !"
 L["TAXI_2_1"]	= "<after>".."Bienvenue, sur le vol de ~Succube Air Lines~ \195\160 destination de ~..."
@@ -250,17 +250,17 @@ L["TAXI_5"]	= "<after>".."Tel un lapin dans un chapeau de mage, nous allons fair
 L["TAXI_6"]	= "<after>".."PAR ASTAROTH ET DASMODES, JE T'INVOQUE, O TOUT PUISSANT DEMON DES SEPTS ENFERS, PARANGON VELU DES INFRA MONDES DEMONIAQUES,"
 	.." PAR LA PUISSANCE DU SCEAU ANCESTR... euh ?!? Je crois qu'il y a un probl\195\168me l\195\160..."
 --
-L["REZ_1"] = "<after>".."If you cherish the idea of a mass suicide, <target> can now self-resurrect, so all should be fine. Go ahead."
+L["REZ_1"] = "<after>".."Si vous ch\195\169rissez l'id\195\169e d'un suicide de masse, <target> peut maintenant se ressusciter, donc tout devrait bien se passer. Aller de l'avant."
 L["REZ_2"] = "<after><target>".." peut partir siroter un caf\195\169, et pourra se relever du wipe qui s'en suivra gr\195\162ce \195\160 sa pierre d'\195\162me"
 L["REZ_3"] = "<after>".."Pierre pos\195\169e sur ".."<target>"..", vous pouvez recommencer \195\160 faire n'importe quoi sans risque"
-L["REZ_4"] = "<after><target>".." is Stoned... duuuude heavy!"
+L["REZ_4"] = "<after><target>".." est Stoned ... duuuude lourd !"
 L["REZ_5"] = "<after>".."<target> peut d\195\169sormais revenir d'entre les morts, histoire d'organiser le prochain wipe"
 --
 L["ROS_1"] = "Utilisons donc les \195\162mes de nos ennemis, pour nous redonner la vie !"
 L["ROS_2"] = "Votre \195\162me, mon \195\162me, leur \195\162me... Quelle importance ? Allez, piochez-en juste une !"
-L["ROS_3"] = "WTS healthstones 10g each!! Cheaper than AH!"
-L["ROS_4"] = "This healthstone probably wont save your life, but take one anyway!"
-L["ROS_5"] = "If you dont pull aggro, then you wont need a healthstone!"
+L["ROS_3"] = "WTS pierre de soins 10g chacune ! Moins cher que AH !"
+L["ROS_4"] = "Cette pierre de soins ne vous sauvera probablement pas la vie, mais prenez-en une quand même !"
+L["ROS_5"] = "Si vous ne tirez pas sur l'aggro, vous n'aurez pas besoin d'une pierre de soins !"
 --
 L["SHORT_1"] = "<after>--> <target> est prot\195\169g\195\169 par une pierre d'\195\162me <--"
 L["SHORT_2"] = "<after><TP> Invocation en cours, cliquez sur le portail svp <TP>"
@@ -288,9 +288,9 @@ L["DEMON_7_2_2"] = ""
 L["DEMON_7_3"] = "Et hop, un cheval tout feu tout flamme !"
 --
 L["ABOUT_VERSION"] = "Version";
-L["ABOUT_AUTHOR"] = "Author";
-L["ABOUT_CREDITS"] = "Credits";
-L["ABOUT_CATEGORY"] = "Category";
-L["ABOUT_EMAIL"] = "E-mail";
-L["ABOUT_WEB"] = "Website";
-L["ABOUT_LICENSE"] = "License";
+L["ABOUT_AUTHOR"] = "Auteur";
+L["ABOUT_CREDITS"] = "Cr\195\169dits";
+L["ABOUT_CATEGORY"] = "Cat\195\169gorie";
+L["ABOUT_EMAIL"] = "Email";
+L["ABOUT_WEB"] = "Site Internet";
+L["ABOUT_LICENSE"] = "Licence";
