@@ -80,7 +80,7 @@ L["DOOMGUARD_LABEL"] = "|c00FFFFFF".."Guardia Apocal\195\173ptico".."|r"
 L["DOOMGUARD"] = "Guardia apocal\195\173ptico"
 -- 
 L["MOUNTS_LABEL"] = "|c00FFFFFF".."Corcel".."|r"
-L["MOUNT_TEXT"] = "Left click to summon Dreadsteed\nRight click to summon Felsteed"
+L["MOUNT_TEXT"] = "Click Izquierdo para invocar Corcel nefasto\nClick Derecho para invocar Corcel vil"
 L["BUFF_MENU_LABEL"] = "|c00FFFFFF".."Men\195\186 de Hechizos".."|r"
 L["BUFF_MENU_TEXT_1"] = "Click Derecho para mantener el men\195\186 abierto"
 L["BUFF_MENU_TEXT_2"] = "Modo autom\195\161tico: Se cierra cuando sales de combate"
@@ -162,10 +162,10 @@ L["HEALTH"] = "Salud"
 -- Buttons
 L["BUTTONS_ROTATION"] = "Rotaci\195\179n de los botones"
 L["BUTTONS_STICK"] = "Fijar los botones alrededor de la Esfera"
-L["BUTTONS_MOUNT"] = "Use my own mounts"
-L["BUTTONS_SELECTION"] = "Selection of buttons to be shown"
-L["BUTTONS_LEFT"] = "Left click"
-L["BUTTONS_RIGHT"] = "Right click"
+L["BUTTONS_MOUNT"] = "Usar mis monturas"
+L["BUTTONS_SELECTION"] = "Selección de botones a mostrar"
+L["BUTTONS_LEFT"] = "Click Izquierdo"
+L["BUTTONS_RIGHT"] = "Click Derecho"
 --
 L["SHOW_FIRE_STONE"] = "Mostrar bot\195\179n Piedra de Fuego"
 L["SHOW_SPELL_STONE"] = "Mostrar bot\195\179n Piedra de Hechizo"
@@ -223,10 +223,10 @@ L["BAG_EBON_SHADOW_BAG"] = "Bolsa de tela vil del N\195\186cleo"
 L["BAG_CORE_FELCLOTH_BAG"] = "Bolsa abisal"
 L["BAG_ABYSSAL_BAG"] = "Bolsa de las Sombras de \195\169bano"
 --
-L["MINOR"] = "Minor"
-L["MAJOR"] = "Major"
-L["LESSER"] = "Lesser"
-L["GREATER"] = "Greater"
+L["MINOR"] = "Menor"
+L["MAJOR"] = "Sublime"
+L["LESSER"] = "Inferior"
+L["GREATER"] = "Superior"
 --
 L["COOLDOWN"] = "Tiempo de reutilizaci\195\179n restante"
 L["RANK"] = "Rango"
@@ -244,15 +244,15 @@ L["ANTI_FEAR_BUFF_PROTECT"]		= "Protecci\195\179n divina"
 L["ANTI_FEAR_BUFF_SHIELD"]		= "Escudo divino"
 L["ANTI_FEAR_BUFF_TREMOR"]		= "T\195\179tem de tremor"
 L["ANTI_FEAR_BUFF_ABOLISH"]		= "Suprimir magia"
-L["ANTI_FEAR_DEBUFF_RECKLESS"]	= "Curse of Recklessness"
+L["ANTI_FEAR_DEBUFF_RECKLESS"]	= "Maldici\195\179n de temeridad"
 
 -- Speech
 
 --
-L["ABOUT_VERSION"] = "Version";
-L["ABOUT_AUTHOR"] = "Author";
-L["ABOUT_CREDITS"] = "Credits";
-L["ABOUT_CATEGORY"] = "Category";
+L["ABOUT_VERSION"] = "Versi\195\179n";
+L["ABOUT_AUTHOR"] = "Autor";
+L["ABOUT_CREDITS"] = "Creditos";
+L["ABOUT_CATEGORY"] = "Categor\195\173a";
 L["ABOUT_EMAIL"] = "E-mail";
-L["ABOUT_WEB"] = "Website";
-L["ABOUT_LICENSE"] = "License";
+L["ABOUT_WEB"] = "Sitio de web";
+L["ABOUT_LICENSE"] = "Licencia";
