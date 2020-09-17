@@ -60,7 +60,7 @@ L["FIRESTONE_TEXT_4"] = "Usada\nClick derecho para crear"
 L["SPELLTIMER_LABEL"] = "|c00FFFFFF".."Duraci\195\179n de Hechizos".."|r"
 L["SPELLTIMER_TEXT"] = "Hechizos activos en el objetivo"
 L["SPELLTIMER_RIGHT"] = "Click derecho para usar Piedra de Hogar a "
-L["SHADOW_TRANCE_LABEL"] = "|c00FFFFFF".."Trance de las Sombra".."|r"
+L["SHADOW_TRANCE_LABEL"] = "|c00FFFFFF".."Trance de las Sombras".."|r"
 L["BACKLASH_LABEL"] = "|c00FFFFFF".."Latigazo".."|r"
 L["BANISH_TEXT"] = "Click derecho para invocar Rango 1"
 -- Pets
